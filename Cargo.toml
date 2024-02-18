@@ -1,0 +1,15 @@
+[package]
+name = "tiago_functions"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tiago Santos Da Silva <tiago.toya@hotmail.com>"]
+descriptions = "Algumas funções para uso externo"
+homepage = "https://github.com/tiago154"
+repository = "https://github.com/tiago154"
+documentation = "https://github.com/tiago154"
+license = "MIT"
+keywords = ["funções", "helloworld"]
+categories = ["functions"]
+
+[dependencies]
+regex = "1.10.3"
