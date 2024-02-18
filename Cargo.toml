@@ -3,13 +3,12 @@ name = "tiago_functions"
 version = "0.1.0"
 edition = "2021"
 authors = ["Tiago Santos Da Silva <tiago.toya@hotmail.com>"]
-descriptions = "Algumas funções para uso externo"
+description = "Algumas funções para uso externo"
 homepage = "https://github.com/tiago154/tiago_functions"
 repository = "https://github.com/tiago154/tiago_functions"
 documentation = "https://github.com/tiago154/tiago_functions"
 license = "MIT"
-keywords = ["funções", "helloworld"]
-categories = ["functions"]
+keywords = ["functions", "helloworld"]
 
 [dependencies]
 regex = "1.10.3"
